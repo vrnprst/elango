@@ -1,6 +1,3 @@
-{code}
-
-
 pipeline {
     agent any
     
@@ -27,5 +24,3 @@ pipeline {
         }
     }
 }
-
-{code}
